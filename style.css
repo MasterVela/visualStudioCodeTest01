@@ -1,3 +1,15 @@
 h1 {
+    font-family: 'Roboto';
+    font-style: bold;
+
     color: grey
+}
+p {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 41px;
+
+color: #333;
 }
